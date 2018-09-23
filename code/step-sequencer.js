@@ -14,7 +14,7 @@ function getDuration() {
 function getStartPositions() {
 	for (var i = 0; i < 8; i++) {
 		var number = Math.floor(Math.random() * duration);
-		outlet(i, "start", number, number + noteDuration, noteDuration);
+		outlet(i, number);
 		post(number);
 	}
 }
