@@ -11,7 +11,7 @@ function getDuration() {
 	post(duration);
 }
 
-function getStartPositions() {
+function randomize() {
 	for (var i = 0; i < 8; i++) {
 		var number = Math.floor(Math.random() * duration);
 		outlet(i, number);
