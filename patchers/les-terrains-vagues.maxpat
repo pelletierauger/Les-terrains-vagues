@@ -2987,7 +2987,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 360.0, 345.0, 50.0, 22.0 ],
 									"style" : "",
-									"text" : "0."
+									"text" : "13."
 								}
 
 							}
@@ -4730,7 +4730,7 @@
 													"patching_rect" : [ 1148.5, 137.5, 132.0, 75.5 ],
 													"presentation" : 1,
 													"presentation_rect" : [ 498.125, 1.0, 148.0, 88.5 ],
-													"setfilter" : [ 0, 2, 1, 0, 0, 1822.158569, 6.209959, 2.274365, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ],
+													"setfilter" : [ 0, 2, 1, 0, 0, 2092.41748, 5.473669, 2.274365, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ],
 													"style" : "",
 													"textcolor" : [ 0.0, 0.0, 0.0, 0.0 ]
 												}
@@ -6636,7 +6636,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 40.0, 811.0, 43.0, 22.0 ],
 									"style" : "",
-									"text" : "4461"
+									"text" : "8906"
 								}
 
 							}
@@ -6678,7 +6678,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 747.0, 609.0, 43.0, 22.0 ],
 									"style" : "",
-									"text" : "5247"
+									"text" : "9497"
 								}
 
 							}
@@ -6693,7 +6693,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 647.0, 600.0, 45.0, 22.0 ],
 									"style" : "",
-									"text" : "9087"
+									"text" : "12146"
 								}
 
 							}
@@ -6708,7 +6708,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 545.0, 603.0, 43.0, 22.0 ],
 									"style" : "",
-									"text" : "337"
+									"text" : "7292"
 								}
 
 							}
@@ -6723,7 +6723,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 347.0, 601.0, 43.0, 22.0 ],
 									"style" : "",
-									"text" : "22971"
+									"text" : "8851"
 								}
 
 							}
@@ -6738,7 +6738,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 319.0, 624.0, 43.0, 22.0 ],
 									"style" : "",
-									"text" : "3886"
+									"text" : "20874"
 								}
 
 							}
@@ -6754,7 +6754,7 @@
 									"presentation_linecount" : 2,
 									"presentation_rect" : [ 249.0, 627.0, 33.0, 35.0 ],
 									"style" : "",
-									"text" : "2221"
+									"text" : "17139"
 								}
 
 							}
@@ -6769,7 +6769,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 182.0, 625.0, 45.0, 22.0 ],
 									"style" : "",
-									"text" : "18251"
+									"text" : "7529"
 								}
 
 							}
